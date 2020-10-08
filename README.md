@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 How to reach me:blash3208@kaist.ac.kr
+📫 How to reach me: blash3208@kaist.ac.kr
 
 <!--
 **snapbuy/snapbuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
