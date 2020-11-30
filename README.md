@@ -1,5 +1,6 @@
 ### Hi there 👋
 📫 How to reach me: snapbuy7@gmail.com
+🌱 I’m currently learning python, tensoflow, pytorch, DNN, RNN, LSTM, GP3, and R
 
 <!--
 **snapbuy/snapbuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
