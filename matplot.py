@@ -1,3 +1,5 @@
+# pip install opencv-python
+
 import matplotlib.pyplot as plt
 import cv2
 
