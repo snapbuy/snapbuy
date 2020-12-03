@@ -43,3 +43,10 @@ m1 = torch.FloatTensor([[1, 2]])
 m2 = torch.FloatTensor([3]) # [3] -> [3, 3]
 print(m1 + m2)
 print('######################################')
+
+
+a = torch.ones(5)
+print(a)
+b = a.numpy()
+print(b)
+print('######################################')
