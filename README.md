@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 How to reach me: blash3208@kaist.ac.kr
+📫 How to reach me: snapbuy@nvaer.com
 🌱 I’m currently learning python, tensoflow, pytorch, DNN, RNN, LSTM, GP3, and R
 
 <!--
